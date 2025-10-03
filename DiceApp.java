@@ -27,8 +27,8 @@ public class DiceApp {
             
 
             //Print the values to both dice.
-            System.out.println("The value of the first di is: "+ die1);
-            System.out.println("The value of the second di is: "+ die2);
+            System.out.println("The value of the first die is: "+ die1);
+            System.out.println("The value of the second die is: "+ die2);
 
             //Print the sum of the dice.
             System.out.println("The sum of the two is: "+(die1+die2));
